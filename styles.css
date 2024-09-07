@@ -5,6 +5,7 @@ body {
   margin: 0;
   padding: 0;
 }
+.w3-margin{margin:16px!important}.w3-margin-top{margin-top:16px!important}.w3-margin-bottom{margin-bottom:16px!important}
 
 .container {
   width: 100%;
